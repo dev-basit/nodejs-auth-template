@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "secureKey",
+  "db": "mongodb://localhost/house-price-predictor",
+  "port": "3006",
+  "requiresAuth": true
+}
